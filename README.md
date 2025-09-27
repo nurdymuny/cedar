@@ -349,4 +349,4 @@ window_lines = min(
 
 ---
 
-**Bottom line, Bee:** Cedar launches **with AI in the loop** — not bolted on later. T‑fast gives immediate, deterministic signal; **T‑smart AI** adds **proof and patches** right away, using our compiler‑lens identity and atomic pipeline to stay trustworthy. Con calma y fuerza: ambitious, but grounded.
+**Bottom line:** Cedar launches **with AI in the loop** — not bolted on later. T‑fast gives immediate, deterministic signal; **T‑smart AI** adds **proof and patches** right away, using our compiler‑lens identity and atomic pipeline to stay trustworthy. Con calma y fuerza: ambitious, but grounded.
